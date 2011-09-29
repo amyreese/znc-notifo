@@ -1,6 +1,9 @@
 ZNC to Notifo
 =============
 
+** This project has been renamed to ZNC Push, and this repository is here for legacy
+purposes only.  Please visit http://github.com/jreese/znc-push for the new project.**
+
 ZNC to Notifo is a module for [ZNC][] that will send notifications to a [Notifo][] account
 for any private message or channel highlight that matches a configurable set of conditions.
 
